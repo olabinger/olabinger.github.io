@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olabinger.github.io/sitemap.html.gz
+Sitemap: https://olabinger.github.io/app/sitemap.html.gz
+Sitemap: https://olabinger.github.io/assets/sitemap.html.gz
+Sitemap: https://olabinger.github.io/css/sitemap.html.gz
+Sitemap: https://olabinger.github.io/data/sitemap.html.gz
+Sitemap: https://olabinger.github.io/includes/sitemap.html.gz
+Sitemap: https://olabinger.github.io/item/sitemap.html.gz
+Sitemap: https://olabinger.github.io/src/sitemap.html.gz
